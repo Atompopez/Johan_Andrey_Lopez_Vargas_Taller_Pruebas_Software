@@ -4,8 +4,10 @@
   "extraPaths": [
     "/home/gohan/.local/lib/python3.12/site-packages",
     "./venv/lib/python3.12/site-packages",
-    "./main"
+    "./main",
+    "./main/ejercicio_2"
   ],
-  "pythonVersion": "3.12"
+  "pythonVersion": "3.12",
+  "pythonPlatform": "Linux"
 }
 
